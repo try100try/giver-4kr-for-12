@@ -4,5 +4,6 @@ Hvid
 Sort
 Gul
 Grøn
+Gennemsigtig
 Orange
 Dette er farverne af mine damer
